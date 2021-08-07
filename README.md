@@ -15,3 +15,6 @@ Este repositorio pertenece al grupo 3 y contiene los trabajos prácticos solicit
 
 * Análisis y curación de datos
     - Carpeta: 02_análisis_y_curación
+
+* Introducción al aprendizaje automático
+    - Carpeta: 03_introduccion_aprendizaje_automatico
