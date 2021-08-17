@@ -6,7 +6,6 @@ Este repositorio pertenece al grupo 3 y contiene los trabajos prácticos solicit
 * Wolfmann, Gabriel.
 * Rosonovich, Facundo.
 * Nichele, Exequiel.
-* Fuentes, Micaela.
 * Ambrosino Virginia.
 
 ### Proyectos
