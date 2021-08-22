@@ -17,3 +17,6 @@ Este repositorio pertenece al grupo 3 y contiene los trabajos prácticos solicit
 
 * Introducción al aprendizaje automático
     - Carpeta: 03_introduccion_aprendizaje_automatico
+
+* Aprendizaje supervisado
+    - Carpeta: 04_aprendizaje_supervisado
