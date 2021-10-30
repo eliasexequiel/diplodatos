@@ -20,3 +20,6 @@ Este repositorio pertenece al grupo 3 y contiene los trabajos prácticos solicit
 
 * Aprendizaje supervisado
     - Carpeta: 04_aprendizaje_supervisado
+
+* Aprendizaje no supervisado
+    - Carpeta: 05_no_supervisado
